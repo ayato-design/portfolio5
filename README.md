@@ -22,10 +22,11 @@ https://ayato-design.github.io/portfolio3/
 - Figma
 - Canva
 - XAMPP
+- MySQL
 - PHP
 - WordPress(オリジナルテーマ開発)
-- Contact Form 7
-- Page scroll to id
+- Contact Form7(プラグイン)
+- Page scroll to id(プラグイン)
 
 ## 担当範囲
 - トップページのコーディングおよびテンプレート化
